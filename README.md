@@ -81,6 +81,3 @@ https://ecl-scripts.tebex.io/
 ## Credits
 
 Developed by ECL Scripts.
-
-Premium FiveM Development
-
