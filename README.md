@@ -28,7 +28,9 @@ Modern and minimal TextUI system for FiveM built with smooth animations, optimiz
 
 ## Preview
 
-Preview video coming soon.
+<img width="1672" height="941" alt="ECL-TextUI" src="https://github.com/user-attachments/assets/fbea896e-c1f3-40d0-bc48-b35b110e5a19" />
+
+https://www.youtube.com/watch?v=bW-Fwi5kBos
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
